@@ -5,8 +5,8 @@
 Instructions for setting up environment to run tests
 
 - [Download soapUI](https://www.soapui.org/downloads/soapui/)
-- Download or clone repository 
-- In soapUI import project by following `File` > `Import Project` and select  
+- Clone repository [BPDTS-technical-test-](https://github.com/MancLad89/BPDTS-technical-test-.git) from GitHub
+- In soapUI import project by following `File` > `Import Project` and select `bpdts-tech-test-soapui-project.xml` from cloned repository
 
 ## Possible Improvements
 
