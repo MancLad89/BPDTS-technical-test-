@@ -7,6 +7,9 @@ Instructions for setting up environment to run tests
 - [Download soapUI](https://www.soapui.org/downloads/soapui/)
 - Clone repository [BPDTS-technical-test-](https://github.com/MancLad89/BPDTS-technical-test-.git) from GitHub
 - In soapUI import project by following `File` > `Import Project` and select `bpdts-tech-test-soapui-project.xml` from cloned repository
+- Open `bpdts-tech-test-project` project followed by `API TestSuite` 
+- Finally double click on `happy path test case` and click the play icon
+- All tests steps should execute with assertions 
 
 ## Possible Improvements
 
